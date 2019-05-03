@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-profolio-site/static/css/main.5bba414a.chunk.css",
+    "main.js": "/my-profolio-site/static/js/main.0e42bec1.chunk.js",
+    "main.js.map": "/my-profolio-site/static/js/main.0e42bec1.chunk.js.map",
+    "runtime~main.js": "/my-profolio-site/static/js/runtime~main.d423be99.js",
+    "runtime~main.js.map": "/my-profolio-site/static/js/runtime~main.d423be99.js.map",
+    "static/js/2.ceb634ec.chunk.js": "/my-profolio-site/static/js/2.ceb634ec.chunk.js",
+    "static/js/2.ceb634ec.chunk.js.map": "/my-profolio-site/static/js/2.ceb634ec.chunk.js.map",
+    "index.html": "/my-profolio-site/index.html",
+    "precache-manifest.d8be85a103acd84fbb1215a4a9475890.js": "/my-profolio-site/precache-manifest.d8be85a103acd84fbb1215a4a9475890.js",
+    "service-worker.js": "/my-profolio-site/service-worker.js",
+    "static/css/main.5bba414a.chunk.css.map": "/my-profolio-site/static/css/main.5bba414a.chunk.css.map"
+  }
+}
