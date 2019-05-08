@@ -3,7 +3,7 @@
 	"name": "Xuan's Portfolio",
 	"icons": [
 		{
-			"src": "./favicon.ico",
+			"src": "favicon.ico",
 			"size": "64x64",
 			"type": "image/x-icon"
 		}
