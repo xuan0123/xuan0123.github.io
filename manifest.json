@@ -1,6 +1,11 @@
 {
-	"short_name": "Xuan's Profo",
-	"name": "Xuan's Profolio",
-	"start_url": ".",
-	"display": "standalone"
+	"short_name": "Xuan's Portfo",
+	"name": "Xuan's Portfolio",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"size": "64x64",
+			"type": "image/x-icon"
+		}
+	]
 }
